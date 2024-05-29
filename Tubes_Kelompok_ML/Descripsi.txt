@@ -1,0 +1,19 @@
+Link document Untuk Tugas
+https://telkomuniversityofficial-my.sharepoint.com/:w:/g/personal/dinantialdila_student_telkomuniversity_ac_id/EQp9qEiEMAtAvTnlHrl7qesBuVeebdQl5iPWpQOYc0zRKg?e=q6SsPj
+
+Tools for ML
+Machine Learning Automation Tools yang harus digunakan adalah 
+  a. TPOT http://epistasislab.github.io/tpot/, 
+  b. Niapy https://niapy.org/en/stable/
+
+Link dataset
+h. cars https://www.openml.org/search?type=data&status=active&id=455
+
+Link Document laporan hasil Tugas
+- Null
+
+Member:
+1.Dawwi Raissa Damarjati Muljana
+2.Dinanti Adila
+3.Tyas Nur Kumala
+4.SYR-03

@@ -1,0 +1,6 @@
+Gen 4
+pop_size = 50 (dari 25 jadi 50)
+iterations = 100
+bounds = [-50, 100]
+
+np.random.seed(20) di matikan
